@@ -11,29 +11,14 @@ background: 'background.jpg'
 favicon: 'sloth.png'
 
 # Online profiles
-facebook: 'myfacebook'
-twitter: 'mytwitter'
-linkedin: 'mylinkedin'
-instagram: 'myinsta'
-pinterest: 'mypinterest'
-youtube: 'myyoutube'
-github-user: 'mygithub'
-#gitlab-user: ''
-#codepen: ''
-#steam: ''
-#soundcloud: ''
-#lastfm: ''
-#stack-overflow: ''
-#reddit: ''
-#medium:  ''
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
-messenger: 'myfbchat'
+facebook: 'daniela.craciun19'
+twitter: 'danielacraciun_'
+linkedin: 'danielacraciun'
+github-user: 'danielacraciun'
+blog_url: 'danielacraciun.github.io'
+email: 'craciundaniela19@gmail.com'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, messenger, blog_url, email]
+myblog.blog.comsocial-links-order: [github-user, facebook, twitter, linkedin, messenger, blog_url, email]
 
 # Advanced settings
 plugins:
