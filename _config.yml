@@ -2,8 +2,8 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Dana'
+description: 'Kinda slothy.'
 
 # Images
 avatar: 'avatar.jpg'
@@ -11,7 +11,6 @@ background: 'background.jpg'
 favicon: 'sloth.png'
 
 # Online profiles
-dribbble: 'mydribbble'
 facebook: 'myfacebook'
 twitter: 'mytwitter'
 linkedin: 'mylinkedin'
@@ -34,7 +33,7 @@ blog_url: 'myblog.blog.com'
 email: 'hello@example.com'
 messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, messenger, blog_url, email]
 
 # Advanced settings
 plugins:
@@ -125,9 +124,6 @@ social-links:
 
   - name: tumblr
     url-pattern: __USERNAME__.tumblr.com
-
-  - name: dribbble
-    url-pattern: dribbble.com/__USERNAME__
 
   - name: keybase
     url-pattern: keybase.io/__USERNAME__
