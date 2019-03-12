@@ -15,7 +15,7 @@ facebook: 'daniela.craciun19'
 twitter: 'danielacraciun_'
 linkedin: 'danielacraciun'
 github-user: 'danielacraciun'
-blog_url: 'danielacraciun.github.io'
+blog_url: 'danielacraciun.github.io/blog'
 email: 'craciundaniela19@gmail.com'
 
 myblog.blog.comsocial-links-order: [github-user, facebook, twitter, linkedin, messenger, blog_url, email]
